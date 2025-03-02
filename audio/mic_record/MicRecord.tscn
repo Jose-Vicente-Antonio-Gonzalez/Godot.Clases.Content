@@ -175,10 +175,10 @@ offset_bottom = 179.0
 
 [node name="SampleCount" type="Label" parent="."]
 layout_mode = 0
-offset_left = 440.064
-offset_top = 38.2673
-offset_right = 522.064
-offset_bottom = 61.2673
+offset_left = 392.073
+offset_top = 43.3472
+offset_right = 474.073
+offset_bottom = 66.3472
 text = "N-samples"
 
 [connection signal="pressed" from="RecordButton" to="." method="_on_record_button_pressed"]
