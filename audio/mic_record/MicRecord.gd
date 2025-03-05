@@ -30,7 +30,7 @@ func _ready() -> void:
 func _process(delta):
 	sampleduration += delta
 	var audiosamples : PackedVector2Array = captureeffect.get_buffer(audiosamplesize)
-	if audiosamples != null:
+	if audiosamples:
 		audiosampleframetextureimage.set_data(audiosamplesize, 1, false, Image.FORMAT_RGF, audiosamples.to_byte_array())
 		audiosampleframetexture.update(audiosampleframetextureimage)
 		totalsamples += len(audiosamples)
