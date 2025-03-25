@@ -1,5 +1,7 @@
 # Proyectos de demostración de Godot
 
+Estos son los proyectos que se trabajaron en el desarrollo del curso de Godot-GDscript. 
+
 Cada carpeta que contiene un archivo `project.godot` es un proyecto de demostración diseñado para usarse con el motor de juegos 2D y 3D de código abierto.
 
 ## Importar todas las demos
