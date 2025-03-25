@@ -1,15 +1,13 @@
-# Godot demo projects
+# Proyectos de demostración de Godot
 
-Each folder containing a `project.godot` file is a demo project meant to
-be used with [Godot Engine](https://godotengine.org), the open source
-2D and 3D game engine.
+Cada carpeta que contiene un archivo `project.godot` es un proyecto de demostración diseñado para usarse con el motor de juegos 2D y 3D de código abierto.
 
-## Importing all demos
+## Importar todas las demos
 
-To import all demos at once in the project manager:
+Para importar todas las demos a la vez en el gestor de proyectos:
 
-- Clone this repository or [download a ZIP archive](https://github.com/godotengine/godot-demo-projects/archive/master.zip).
-  - If you've downloaded a ZIP archive, extract it somewhere.
-- Open the Godot project manager and click the **Scan** button on the right.
-- Choose the path to the folder containing all demos.
-- All demos should now appear in the project manager.
+- Clona este repositorio o [descarga un archivo ZIP]
+- Si has descargado un archivo ZIP, extráelo.
+- Abre el gestor de proyectos de Godot y haz clic en el botón **Escanear** a la derecha.
+- Selecciona la ruta de la carpeta que contiene todas las demos.
+- Todas las demos deberían aparecer ahora en el gestor de proyectos.
